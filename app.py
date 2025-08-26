@@ -15,7 +15,7 @@ import streamlit as st
 # -------------------------------
 st.set_page_config(page_title="Inverter Data Analyzer", layout="wide")
 
-st.title("⚡ Inverter Data Analyzer (No-Setup, Browser App)")
+st.title("⚡ Inverter Data Analyzer")
 st.caption("Upload your inverter CSV/Excel → map columns → get auto analysis, anomalies, KPIs, and downloads.")
 
 # -------------------------------
