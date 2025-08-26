@@ -323,4 +323,4 @@ sample = pd.DataFrame({
 st.download_button("⬇️ Download Sample Template (CSV)", data=sample.to_csv(index=False).encode("utf-8"),
                    file_name="inverter_sample_template.csv", mime="text/csv")
 
-st.caption("Made with ❤️ using Streamlit + Pandas + Plotly")
+st.caption("Made by Ruchit ❤️")
